@@ -15,5 +15,5 @@ if uploaded_files:
         image = Image.open(uploaded_file)
         
         # Display image
-        st.image(image, caption=f"{uploaded_file.name} ({uploaded_file.type.split('/')[-1]})", use_column_width=True)
+        st.image(image, caption=f"{uploaded_file.name} ({uploaded_file.type.split('/')[-1]})", use_container_width=True)
         
