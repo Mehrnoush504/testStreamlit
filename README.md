@@ -45,7 +45,6 @@ The app uses a **sidebar navigation** with emojis for easy switching between too
 | Python            | 3.10.0     |
 | streamlit         | 1.50.0     |
 | numpy             | 2.2.6     |
-| opencv-python     | 4.12.0.88  |
 | pandas            | 2.3.3     |
 | pillow            | 11.3.0     |
 
