@@ -15,9 +15,9 @@ app_choice = st.sidebar.radio(
 
 # Mapping of radio options to .py file names
 app_files = {
-    "📝 Form": "Form.py",
-    "📊 CSV Uploader": "CSVUploader.py",
-    "🧮 Image Gallery": "ImageGallery.py"
+    "📝 Form": "form.py",
+    "📊 CSV Uploader": "csv_uploader.py",
+    "🧮 Image Gallery": "image_gallery.py"
 }
 
 # Run the selected app
